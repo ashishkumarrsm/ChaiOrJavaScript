@@ -10,5 +10,5 @@
 // console.log(undefined < 0);
 
 // strict chack
-// console.log("2" === 2);
-// console.log("2" == 2);
+console.log("2" === 2);
+console.log("2" == 2);
