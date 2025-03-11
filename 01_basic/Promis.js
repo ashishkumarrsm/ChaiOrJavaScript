@@ -65,7 +65,7 @@
 
 
 
-// async awate 
+// // async awate 
 // const promis5 = new Promise((resolve, reject) => {
 //   setTimeout(() => {
 //     console.log('This is promis 4');
@@ -124,15 +124,18 @@
 // })
 
 
-fetch('https://jsonplaceholder.typicode.com/users')
+// fetch('https://jsonplaceholder.typicode.com/users')
 
-  .then((response) => {
-    return response.json()
-  })
-  .then((data) => {
-    console.log(data);
+//   .then((response) => {
+//     return response.json()
+//   })
+//   .then((data) => {
+//     console.log(data);
 
-  })
-  .catch((err) => {
-    console.log(err);
-  })
+//   })
+//   .catch((err) => {
+//     console.log(err);
+//   })
+
+
+
