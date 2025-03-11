@@ -26,5 +26,8 @@ class car{
 }
 
 
-let myobj=new  car();
+
+
+
+let myobj=new  car(12,2222,3333);
 console.log(myobj.startEngine(), myobj.accelerate, myobj);
